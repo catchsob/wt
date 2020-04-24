@@ -1,0 +1,251 @@
+[
+{
+  "type": "flex",
+  "altText": "楓香",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://i.imgur.com/onC5qWV.jpg",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "楓香",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#9D6439"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "昆蟲",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "楓香為長尾水青蛾與台灣長尾水青蛾的食草，這兩種蛾可說是蛾中最美，猶勝蝴蝶，但羽化後成蟲無口器，僅數天至一週生命，且雌蟲羽化後腹中即含未受精卵，即便未受精也會產卵",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://i.imgur.com/uWApCvp.jpg",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "楓香",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#9D6439"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "學名",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Liquidambar formosana Hance",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "別名",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#FFFFFF",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "科/屬",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "金縷梅科(Hamamelidaceae) 或  蕈樹科(Altingiaceae)  / 楓香屬(Liquidambar)",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "來源",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "原生",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "花",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "春，淡黃綠色",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "葉",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "單葉互生",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "果",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "球形蒴果，褐色，外觀帶刺",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
+]

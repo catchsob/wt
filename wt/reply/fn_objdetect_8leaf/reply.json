@@ -1,0 +1,52 @@
+[
+{
+  "type": "flex",
+  "altText": "物件偵測:8種葉",
+  "contents": {
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "物件偵測:8種葉",
+          "size": "xl",
+          "weight": "bold",
+          "color": "#8EC641"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "margin": "lg",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "說明",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#008000"
+                },
+                {
+                  "type": "text",
+                  "text": "用戶可選擇以〔讀檔〕或〔拍照〕方式取得樹葉影像後傳送，AI 會替您以物件偵測方式鑑定 青楓 (AE)、鳳凰木 (DR)、水同木 (FF)、稜果榕 (FP)、楓香 (LF)、大葉山欖 (PF)、盾柱木 (PP)、大葉欖仁 (TC) 等 8 種樹。",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]

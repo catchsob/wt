@@ -1,0 +1,52 @@
+[
+{
+  "type": "flex",
+  "altText": "影像辨識:14種樹",
+  "contents": {
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "影像辨識:14種樹",
+          "size": "xl",
+          "weight": "bold",
+          "color": "#9D6439"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "margin": "lg",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "說明",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#008000"
+                },
+                {
+                  "type": "text",
+                  "text": "用戶可選擇以〔讀檔〕或〔拍照〕方式取得樹形影像後傳送，AI 會替您以影像辨識方式鑑定 黑板樹、茄冬、樟樹、鳳凰木、榕樹、台灣欒樹、楓香、苦楝、白千層、水黃皮、阿勃勒、大王椰子、大葉欖仁、小葉欖仁 等 14 種樹。",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]

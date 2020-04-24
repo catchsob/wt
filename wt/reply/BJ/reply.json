@@ -1,0 +1,192 @@
+[
+{
+  "type": "flex",
+  "altText": "茄冬",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "hero": {
+      "type": "image",
+      "url": "https://i.imgur.com/Qi52zm3.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "茄冬",
+          "size": "xl",
+          "weight": "bold",
+          "color": "#9D6439"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "margin": "lg",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "學名",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "Bischofia javanica Blume",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "別名",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "重陽木",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "科/屬",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "大戟科(Euphorbiaceae) 或 葉下珠科(Phyllanthaceae) / 重陽木屬(Bischofia)",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "來源",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "原生",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "花",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "春，雌雄異株，淡黃綠色小花",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "葉",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "互生",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "果",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "漿果，青綠轉褐色，成熟時似葡萄成串生於枝頂",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]

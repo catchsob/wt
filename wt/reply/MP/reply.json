@@ -1,0 +1,192 @@
+[
+{
+  "type": "flex",
+  "altText": "水黃皮",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "hero": {
+      "type": "image",
+      "url": "https://i.imgur.com/0ffcUA1.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "水黃皮",
+          "size": "xl",
+          "weight": "bold",
+          "color": "#9D6439"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "margin": "lg",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "學名",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "Pongamia pinnata (L.) Pierre",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "別名",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": ".",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#FFFFFF",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "科/屬",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "豆科(Fabaceae)  / 老荊藤屬(Millettia) 或 水黃皮屬(Pongamia)",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "來源",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "原生",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "花",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "夏秋，紫或白花",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "葉",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "葉互生，奇數羽狀複葉",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "果",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "短莢果",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]

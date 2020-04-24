@@ -1,0 +1,192 @@
+[
+{
+  "type": "flex",
+  "altText": "鳳凰木",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "hero": {
+      "type": "image",
+      "url": "https://i.imgur.com/51vGbPl.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "鳳凰木",
+          "size": "xl",
+          "weight": "bold",
+          "color": "#9D6439"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "margin": "lg",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "學名",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "Delonix regia (Bojer ex Hook.) Raf.",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "別名",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": ".",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#FFFFFF",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "科/屬",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "豆科(Fabaceae) / 鳳凰木屬(Delonix)",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "來源",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "歸化",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "花",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "夏，紅花大而艷麗",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "葉",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "二回羽狀複葉",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "果",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "大型扁平莢果，綠轉褐",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]

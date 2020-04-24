@@ -1,0 +1,248 @@
+[
+{
+  "type": "flex",
+  "altText": "你來到幕後",
+  "contents": {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://i.imgur.com/s5SpRMB.jpg",
+      "size": "full",
+      "aspectRatio": "1.51:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "什麼樹？幕後",
+              "flex": 10,
+              "size": "xl",
+              "align": "start",
+              "weight": "bold",
+              "color": "#000000",
+              "action": {
+                "type": "uri",
+                "uri": "https://wa.enadv.idv.tw/wt_qrcode.png"
+              }
+            },
+            {
+              "type": "text",
+              "text": "安卓APP",
+              "flex": 0,
+              "size": "sm",
+              "align": "end",
+              "gravity": "center",
+			  "color": "#000000",
+              "action": {
+                "type": "uri",
+                "uri": "https://wa.enadv.idv.tw/wtlive_qrcode.png"
+              },
+              "wrap": false
+            }
+          ]
+        },
+        {
+          "type": "separator",
+          "margin": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "xl",
+          "margin": "xxl",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "羊蹄甲屬",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "start",
+                  "weight": "bold",
+                  "color": "#FF00FF",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<bauhinia>>"
+                  },
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "緣起",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "center",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "label": "緣起",
+                    "data": "page=<<origin>>"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "功能介紹",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "end",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<functions>>"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "樹木陣列",
+                  "flex": 5,
+                  "size": "md",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<trees>>"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "致謝",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "center",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<thanks>>"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "資料介紹",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "end",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<data>>"
+                  },
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "我是誰？",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "start",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "data": "action=whoami"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "作者",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "center",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<author>>"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "版權宣告",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "end",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<copyright>>"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "統計數據",
+                  "align": "start",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "data": "action=count_usage"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "用戶",
+                  "align": "center",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "data": "action=list&mode=last&start=0"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "系統重置",
+                  "align": "end",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "data": "action=reload"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]

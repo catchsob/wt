@@ -1,0 +1,80 @@
+[
+{
+  "type": "flex",
+  "altText": "緣起",
+  "contents": {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://i.imgur.com/uNuunPz.jpg",
+      "size": "full",
+      "aspectRatio": "4:3",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "緣起",
+          "size": "xl",
+          "weight": "bold",
+          "color": "#9D6439"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "margin": "lg",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "這是什麼樹？",
+                  "flex": 5,
+                  "margin": "none",
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#000000"
+                },
+                {
+                  "type": "text",
+                  "text": "源於緯育 AI 應用技術工程師班專題，從用戶體驗出發，針對 14 種樹形與 8 種樹葉實作影像辨識與物件偵測模型，並實現邊緣與雲端行動應用方案， 協助提升植物素人以及微達人之植物辨識效率。",
+                  "flex": 5,
+                  "margin": "none",
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "羊蹄甲辨識",
+                  "flex": 5,
+                  "margin": "lg",
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#000000"
+                },
+                {
+                  "type": "text",
+                  "text": "源於 AIA 技術領袖班專題，其中豔紫荊、洋紫荊、羊蹄甲為羊蹄甲屬的三個品種， 其花朵容易區分但單憑葉子則區分不易，故發展 AI 應用協助羊蹄甲屬之正確辨識。",
+                  "flex": 5,
+                  "margin": "none",
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]

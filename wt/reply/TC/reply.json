@@ -1,0 +1,273 @@
+[
+{
+  "type": "flex",
+  "altText": "大葉欖仁",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://i.imgur.com/MHn6lLy.jpg",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "大葉欖仁",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#9D6439"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "故事1",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "曾聽聞飲欖仁茶可減肥，但未見成功案例",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "故事2",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "大葉欖仁可做為小葉欖仁砧木以加速其生長，以致公園內常見兩截式小葉欖仁樹幹",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://i.imgur.com/XuDOWsv.jpg",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "大葉欖仁",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#9D6439"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "學名",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "欖仁 Terminalia catappa L.",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "別名",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "大葉欖仁",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "科/屬",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "使君子科(Combretaceae) / 欖仁屬(Terminalia) ",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "來源",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "原生",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "花",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "春夏，淡黃白色小花",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "葉",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "互生，常叢生於小枝先端，冬季轉為黃紅色落葉，落至全株無葉，初春冒新芽",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "果",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "核果，綠色，有稜，似橄欖",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
+]

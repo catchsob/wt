@@ -1,0 +1,52 @@
+[
+{
+  "type": "flex",
+  "altText": "物件偵測:14種樹",
+  "contents": {
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "物件偵測:14種樹",
+          "size": "xl",
+          "weight": "bold",
+          "color": "#9D6439"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "margin": "lg",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "說明",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#008000"
+                },
+                {
+                  "type": "text",
+                  "text": "用戶可選擇以〔讀檔〕或〔拍照〕方式取得樹形影像後傳送，AI 會替您以物件偵測方式鑑定 黑板樹 (AS)、茄冬 (BJ)、樟樹 (CC)、鳳凰木 (DR)、榕樹 (FM)、台灣欒樹 (KE)、楓香 (LF)、苦楝 (MA)、白千層 (MI)、水黃皮 (MP) 、阿勃勒 (PC)、大王椰子 (RR)、大葉欖仁 (TC)、小葉欖仁 (TM) 等 14 種樹。",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]

@@ -1,0 +1,256 @@
+[
+{
+  "type": "flex",
+  "altText": "樹木陣列",
+  "contents": {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://i.imgur.com/tiDPmpl.jpg",
+      "size": "full",
+      "aspectRatio": "1.51:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "樹木陣列",
+          "size": "xl",
+          "align": "start",
+          "weight": "bold",
+          "color": "#000000",
+          "action": {
+            "type": "uri",
+            "uri": "https://wa.enadv.idv.tw/bauyadv_qrcode.png"
+          }
+        },
+        {
+          "type": "separator",
+          "margin": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "xl",
+          "margin": "xxl",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "黑板樹",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "start",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<AS>>&category=trees"
+                  },
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "茄冬",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "center",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<BJ>>&category=trees"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "樟樹",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "end",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<CC>>&category=trees"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "鳳凰木",
+                  "flex": 5,
+                  "size": "md",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<DR>>&category=trees"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "榕樹",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "center",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<FM>>&category=trees"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "台灣欒樹",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "end",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<KE>>&category=trees"
+                  },
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "楓香",
+                  "align": "start",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<LF>>&category=trees"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "苦楝",
+                  "align": "center",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<MA>>&category=trees"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "白千層",
+                  "align": "end",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<MI>>&category=trees"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "水黃皮",
+                  "align": "start",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<MP>>&category=trees"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "阿勃勒",
+                  "align": "center",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<PC>>&category=trees"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "大王椰子",
+                  "align": "end",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<RR>>&category=trees"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "margin": "md",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "大葉欖仁",
+                  "align": "start",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<TC>>&category=trees"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "小葉欖仁",
+                  "align": "center",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "page=<<TM>>&category=trees"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ".",
+                  "align": "end",
+                  "weight": "bold",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]

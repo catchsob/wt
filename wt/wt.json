@@ -1,0 +1,18 @@
+{
+	"Channel_access_token": "ZVX6gkseVXV0FVXGbqDJowAdASHaBBk58FqsIdjshkB0F91YmTJmgC19WU+NFIuseffMgMkriNbbWBW12tSylkOFf8XgP3ZMzU36RvV7DYhiv8lbGJGUXpKStbLa5pCFnW+6a2x6iSO/AGwTH90ZtAdB04t89/1O/w1cDnyilFU=",
+	"Channel_secret": "2585bcfc287546af73d159247a1ac8ed",
+	"richmenu_config": "wt_richmenu.json",
+	"richmenu_picture": "static/wt_richmenu4.png",
+	"richmenu_id": "richmenu-87325d8537ccba0a4a368dc46945d2f2",
+	"server": "e0c9b209.ngrok.io",
+	
+	"static_path": "static",
+	"reply_path": "reply",
+	
+	"mysql_ip": "192.168.100.5",
+	"mysql_db": "wt",
+	"mysql_id": "wt",
+	"mysql_pwd": "wt",
+	
+	"show_maxuser": 10
+}

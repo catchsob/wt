@@ -1,0 +1,136 @@
+[
+{
+  "type": "flex",
+  "altText": "你被加持了",
+  "contents": {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://i.imgur.com/tiDPmpl.jpg",
+      "size": "full",
+      "aspectRatio": "1.51:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "管理員密技",
+          "size": "lg",
+          "align": "start",
+          "weight": "bold",
+          "color": "#000000"
+        },
+        {
+          "type": "separator",
+          "margin": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "xl",
+          "margin": "xxl",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "新進來賓",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "start",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "data": "action=list_last"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "用戶人數",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "center",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "data": "action=count_usage"
+                  },
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "系統架構",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "end",
+                  "weight": "bold",
+                  "color": "#FF00FF",
+                  "action": {
+                    "type": "uri",
+                    "label": "管理列表",
+                    "uri": "https://bauyadv.enadv.idv.tw/btc_flow.png"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "使用來賓",
+                  "flex": 5,
+                  "size": "md",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "data": "action=list_usage"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "我是誰",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "center",
+                  "weight": "bold",
+                  "color": "#8EC641",
+                  "action": {
+                    "type": "postback",
+                    "data": "action=whoami"
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "系統重置",
+                  "flex": 5,
+                  "size": "md",
+                  "align": "end",
+                  "weight": "bold",
+                  "color": "#9D6439",
+                  "action": {
+                    "type": "postback",
+                    "data": "action=reload"
+                  },
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]

@@ -1,0 +1,103 @@
+[
+{
+  "type": "flex",
+  "altText": "感恩時間",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://wa.enadv.idv.tw/wtit_team.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "致謝",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#FF00FF"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "感謝〔這是什麼樹？小組〕Enos Chou、TW Su、Darren Lai、Jasper Cheng、Gina Fang、Missy Chung、Aries Chao、Leno Tsai、Jessie Lai、Wilson Chen 14 種樹與 8 種葉的相片採集與模型訓練！",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "hero": {
+          "type": "image",
+          "url": "https://wa.enadv.idv.tw/bauhinia_team.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "致謝",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#FF00FF"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "感謝〔羊蹄甲小組〕Enos Chou、Mei Lee、Irene Zheng、Tim Huang、Elley Chen 羊蹄甲屬相片採集與模型訓練！",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
+]

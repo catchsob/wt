@@ -1,0 +1,295 @@
+[
+{
+  "type": "flex",
+  "altText": "黑板樹",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://i.imgur.com/Y2MoL8P.jpg",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "黑板樹",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#9D6439"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "故事1",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "曾作為黑板的材料",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "故事2",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "台中市早期曾選黑板樹為市樹，因此市府曾廣為栽植其為行道樹，惟其淺根系特性常導致鋪面毀損以致養護困擾。目前台中市府已將之除名市樹並不再栽種黑板樹為行道樹",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "故事3",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "黑板樹的花粉紛飛常造成民眾控訴其導致呼吸道症狀，且其花有惡臭亦為困擾",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://i.imgur.com/aXfgqD4.jpg",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "黑板樹",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#9D6439"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "學名",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Alstonia scholaris (L.) R. Br.",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "別名",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#FFFFFF",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "科/屬",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "夾竹桃科(Apocynaceae) / 黑板樹屬(Alstoni)",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "來源",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "歸化",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "花",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "秋，綠白色小花",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "葉",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "單葉，輪生",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "果",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "蓇葖果，綠轉褐",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
+]

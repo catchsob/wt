@@ -1,0 +1,47 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 843
+  },
+  "selected": true,
+  "name": "什麼樹？控制台",
+  "chatBarText": "什麼樹？控制台",
+  "areas": [
+    {
+      "bounds": {
+        "x": 1016,
+        "y": 0,
+        "width": 780,
+        "height": 843
+      },
+      "action": {
+        "type": "postback",
+        "data": "page=<<wtit>>"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1796,
+        "y": 0,
+        "width": 704,
+        "height": 843
+      },
+      "action": {
+        "type": "postback",
+        "data": "model=classify_bauya"
+      }
+    },
+	{
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1016,
+        "height": 843
+      },
+      "action": {
+        "type": "postback",
+        "data": "page=<<background>>"
+      }
+    }
+  ]
+}

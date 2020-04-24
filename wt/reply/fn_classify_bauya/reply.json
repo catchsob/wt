@@ -1,0 +1,52 @@
+[
+{
+  "type": "flex",
+  "altText": "影像辨識:羊蹄甲3種葉",
+  "contents": {
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "影像辨識:羊蹄甲3種葉",
+          "size": "xl",
+          "weight": "bold",
+          "color": "#FF00FF"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "margin": "lg",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "說明",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#008000"
+                },
+                {
+                  "type": "text",
+                  "text": "用戶可選擇以〔讀檔〕或〔拍照〕方式取得樹葉影像後傳送，AI 會替您以影像辨識方式鑑定出羊蹄甲屬之艷紫荊、羊蹄甲，或洋紫荊。",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]

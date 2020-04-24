@@ -1,0 +1,295 @@
+[
+{
+  "type": "flex",
+  "altText": "榕樹",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://i.imgur.com/EbIb0D0.jpg",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "榕樹",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#9D6439"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "故事1",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "榕樹為淺根系，做為行道樹易破壞鋪面",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "故事2",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "榕樹之氣生根能沿寄主植物爬行生長，終至絞殺該寄主，為極具攻擊性之樹種",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "昆蟲",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "榕屬植物因其隱花果特性在自然界有專屬之榕果小蜂協助授粉，其中雄蟲於隱花果內羽化後立即對尚未羽化的雌蟲受精旋即死亡，雌蟲則帶著受精卵羽化後飛至其他隱花果內產卵並完成授粉",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://i.imgur.com/fqBEMQH.jpg",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "榕樹",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#9D6439"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "學名",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ficus microcarpa L. f.",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "別名",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "正榕、鳥榕",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "科/屬",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "桑科(Moraceae) / 榕屬(Ficus)",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "來源",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "原生",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "花",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "春秋，隱花果",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "葉",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "單葉互生",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "果",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "隱花果，綠色白點轉粉紅終至黑紫",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
+]

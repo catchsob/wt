@@ -1,0 +1,295 @@
+[
+{
+  "type": "flex",
+  "altText": "樟樹",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://i.imgur.com/qxEGcxN.jpg",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "樟樹",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#9D6439"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "故事1",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "古人因此樹樹皮刻痕深多紋理如同竹簡 (即文章) 一般，故命名為樟",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "故事2",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "早期樟樹多用以提煉樟腦外銷",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "昆蟲",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "樟樹葉可做為青鳳蝶幼蟲的食草，由於平地廣植樟樹，因此青鳳蝶也成為都市中常見的鳳蝶種類",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://i.imgur.com/O14sap6.jpg",
+          "size": "full",
+          "aspectRatio": "1:1",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "樟樹",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#9D6439"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "學名",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Cinnamomum camphora (L.) J. Presl",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "別名",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#FFFFFF",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "科/屬",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "樟科(Lauraceae) / 樟屬(Cinnamomum)",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "來源",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "原生",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "花",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "春，黃綠色小花",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "葉",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "互生",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "果",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "球形核果",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
+]

@@ -1,0 +1,548 @@
+[
+{
+  "type": "flex",
+  "altText": "瞧瞧作者",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://wa.enadv.idv.tw/enos_ae_sh.jpg",
+          "size": "full",
+          "aspectRatio": "16:9",
+          "aspectMode": "cover",
+          "action": {
+            "type": "postback",
+            "data": "action=show_email"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "焦點與成就",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#FF00FF"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "none",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "焦點",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#73B839"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[跑步] 半馬PB 1:38:04\n[登山] 嚮導/ 規劃\n[昆蟲] [植物] 導覽/ 攝影/ 辨識\n[音樂] 表演/ 評審",
+                      "flex": 6,
+                      "size": "sm",
+                      "color": "#666666",
+                      "action": {
+                        "type": "uri",
+                        "uri": "http://www.run2pix.com/report/viewscore_w.php?EventCode=20190113&bib=6821&Race=HM"
+                      },
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "xs",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "成就",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#73B839"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[AI] 植物品種辨識-羊蹄甲",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "action": {
+                        "type": "uri",
+                        "uri": "https://www.ithome.com.tw/news/122780"
+                      }
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://i.imgur.com/PeABObr.png",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "xs",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[AI] 這是什麼樹？",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666"
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://i.imgur.com/l3dAwO2.png",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "xs",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[AI] Central Attention論文",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "action": {
+                        "type": "uri",
+                        "uri": "https://wa.enadv.idv.tw/central_attention.pdf"
+                      }
+                    },
+                    {
+                      "type": "icon",
+                      "url": "https://i.imgur.com/l3dAwO2.png",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "專利",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#73B839"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[VoIP] 雙聲多頻數字傳遞方式之協定方法及系統",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "action": {
+                        "type": "uri",
+                        "uri": "https://twpat5.tipo.gov.tw/tipotwoc/tipotwkm?!!FR_I308834"
+                      },
+                      "wrap": false
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[Cable] 單向纜線網路位址管理系統及方法",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "action": {
+                        "type": "uri",
+                        "label": "單向纜線網路位址管理系統及方法",
+                        "uri": "https://twpat5.tipo.gov.tw/tipotwoc/tipotwkm?!!FR_I221375"
+                      },
+                      "wrap": false
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[Cable] 雙向纜線網路位址管理系統及方法",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "action": {
+                        "type": "uri",
+                        "uri": "https://twpat5.tipo.gov.tw/tipotwoc/tipotwkm?!!FR_523675"
+                      },
+                      "wrap": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://wa.enadv.idv.tw/enos_star_sh.jpg",
+          "size": "full",
+          "aspectRatio": "16:9",
+          "aspectMode": "cover"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "技能樹",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#FF00FF"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "none",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "領域",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#73B839"
+                    },
+                    {
+                      "type": "text",
+                      "text": "AI\nInternet Service\nVoIP\nNetwork Management\nPayment\nEC & Retail",
+                      "flex": 6,
+                      "size": "sm",
+                      "align": "start",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "程式",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#73B839"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Python\nJava/ Android Java\nC/ VC",
+                      "flex": 6,
+                      "size": "sm",
+                      "align": "start",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "雲端",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#73B839"
+                    },
+                    {
+                      "type": "text",
+                      "text": "GCP",
+                      "flex": 6,
+                      "size": "sm",
+                      "align": "start",
+                      "color": "#666666",
+                      "wrap": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://wa.enadv.idv.tw/enos_color_sh.jpg",
+          "size": "full",
+          "aspectRatio": "16:9",
+          "aspectMode": "cover",
+          "action": {
+            "type": "uri",
+            "label": "Line",
+            "uri": "https://wa.enadv.idv.tw/enos_qrcode.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "學經歷",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#FF00FF"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "none",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "學歷",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#73B839"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[師大附中]",
+                      "flex": 6,
+                      "size": "sm",
+                      "color": "#666666"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[中興大學] 應用數學系學士",
+                      "flex": 6,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[淡江大學] 資訊管理系碩士",
+                      "flex": 6,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[台灣人工智慧學校] 技術一期",
+                      "flex": 6,
+                      "size": "sm",
+                      "color": "#666666",
+                      "action": {
+                        "type": "uri",
+                        "label": "AIA",
+                        "uri": "https://aiacademy.tw/tech-presentation-tp-1/"
+                      },
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "經歷",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#73B839"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[Seednet] 研發資深工程師8Y+",
+                      "flex": 6,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[遠傳電信] 多媒體與支付開發經理7Y+",
+                      "flex": 6,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[GoHappy] IT與大數據協理1Y",
+                      "flex": 6,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#FFFFFF"
+                    },
+                    {
+                      "type": "text",
+                      "text": "[HappyGo] 資料科學資深經理1Y+",
+                      "flex": 6,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
+]

@@ -1,0 +1,192 @@
+[
+{
+  "type": "flex",
+  "altText": "苦楝",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "hero": {
+      "type": "image",
+      "url": "https://i.imgur.com/Zox35F8.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "苦楝",
+          "size": "xl",
+          "weight": "bold",
+          "color": "#9D6439"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "margin": "lg",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "學名",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "楝 Melia azedarach L.",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "別名",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "苦楝、苦苓",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "科/屬",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "楝科(Meliaceae) / 楝屬(Melia)",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "來源",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "原生",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "花",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "春，淡紫",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "葉",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "大葉互生小羽片對生，二至三回奇數羽狀複葉",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "果",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "核果，黃色",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]

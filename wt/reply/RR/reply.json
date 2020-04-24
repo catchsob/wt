@@ -1,0 +1,192 @@
+[
+{
+  "type": "flex",
+  "altText": "大王椰子",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "hero": {
+      "type": "image",
+      "url": "https://i.imgur.com/ojuvN98.jpg",
+      "size": "full",
+      "aspectRatio": "1:1",
+      "aspectMode": "cover"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "大王椰子",
+          "size": "xl",
+          "weight": "bold",
+          "color": "#9D6439"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "sm",
+          "margin": "lg",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "學名",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "Roystonea regia (Kunth) O.F. Cook",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "別名",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": ".",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#FFFFFF",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "科/屬",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "棕櫚科 (Palmae) / 大王椰子屬(Roystonea)",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "來源",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "栽培",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "花",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "春，小白花",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "葉",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "小葉互生，大葉叢生",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "果",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#8EC641"
+                },
+                {
+                  "type": "text",
+                  "text": "核果",
+                  "flex": 5,
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]

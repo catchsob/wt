@@ -1,0 +1,263 @@
+[
+{
+  "type": "flex",
+  "altText": "功能介紹",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "簡介：什麼樹？幕後",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#8EC641"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "功能",
+                      "flex": 1,
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000"
+                    },
+                    {
+                      "type": "text",
+                      "text": "本功能區包含 AI 實作背景、植物介紹、系統維護等，歡迎細細品味。其中的系統維護功能旨在嘗試以 Line Chatbot 進行日常系統維運的可能性，目前所有用戶皆為管理員角色，歡迎嘗試。",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "AI 實作背景",
+                      "flex": 1,
+                      "margin": "lg",
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000"
+                    },
+                    {
+                      "type": "text",
+                      "text": "緣起：說明本系統的起心動念\n功能介紹：大篇幅介紹本系統各功能\n致謝：感謝參與團隊\n資料介紹：說明採集用以訓練模型的資料狀況\n作者：介紹作者，含聯絡資訊 (藏在某個人頭裡)\n版權宣告：宣告採用的資料授權",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "植物介紹",
+                      "flex": 1,
+                      "margin": "lg",
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000"
+                    },
+                    {
+                      "type": "text",
+                      "text": "樹木陣列：介紹〔這是什麼樹？〕中的 14 種植物\n羊蹄甲屬：介紹〔拍拍羊蹄甲〕中的 3 種羊蹄甲屬植物",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "系統維護",
+                      "flex": 1,
+                      "margin": "lg",
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000"
+                    },
+                    {
+                      "type": "text",
+                      "text": "我是誰？：查詢用戶身份\n統計數據：掌握用戶數概況\n用戶：取得用戶清冊，其中〔註〕依用戶加入時間排序，〔訪〕依用戶最近使用時間排序，〔量〕依用戶使用與瀏覽量排序；亦可直接點選用戶名稱取得細部使用訊息\n系統重置：重新載入系統參數，包含重連DB、更新用戶資料、重置控制台選單等功能，須為 至尊管理員 才能執行",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "簡介：這是什麼樹？",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#9D6439"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "功能與範圍",
+                      "flex": 1,
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000"
+                    },
+                    {
+                      "type": "text",
+                      "text": "本功能區運用 AI 之影像辨識與物件偵測技術實現 14 種樹形與 8 種樹葉的植物鑑定機制，包含 黑板樹、茄冬、樟樹、鳳凰木、榕樹、台灣欒樹、楓香、苦楝、白千層、水黃皮、阿勃勒、大王椰子、大葉欖仁、小葉欖仁 等 14 種樹形以及 青楓、鳳凰木、水同木、稜果榕、楓香、大葉山欖、盾柱木、大葉欖仁 等 8 種樹葉。用戶可選擇以讀檔或拍照方式上傳欲辨識的影像可立即得到鑑定結果。",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "效能",
+                      "margin": "lg",
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000"
+                    },
+                    {
+                      "type": "text",
+                      "text": "14 種樹形影像辨識採 MobileNetV2 模型，top-1 ACC 約 80%\n8 種樹葉影像辨識採 InceptionV3 模型，top-1 ACC 約 93%\n14 種樹形物件偵測採 YoloV3 模型，top-1 mAP 約 50%\n8 種樹葉物件偵測採 YoloV3 模型，top-1 mAP 約 55%",
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "持續進行事項",
+                      "margin": "lg",
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "1. 持續訓練各種模型，提升準確率並縮小模型\n2. 持續蒐集 14 種樹形與 8 種樹葉資料，提升準確率\n3. 增加樹種資料，以山林植物優先，擴大適用範圍",
+                      "size": "sm",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "簡介：拍拍羊蹄甲",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#FF00FF"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "功能與範圍",
+                      "flex": 1,
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000"
+                    },
+                    {
+                      "type": "text",
+                      "text": "此處實現羊蹄甲之影像辨識機制，可透過樹葉影像鑑定羊蹄甲屬的艷紫荊、洋紫荊、羊蹄甲等三個品種。用戶可選擇以讀檔或拍照方式上傳欲辨識的樹葉影像可立即得到鑑定結果。",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "效能",
+                      "margin": "lg",
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000"
+                    },
+                    {
+                      "type": "text",
+                      "text": "採 ResNet50 模型，top-1 ACC 約 95%",
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "持續進行事項",
+                      "margin": "lg",
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "預計將此三種樹葉辨識整合至〔這是什麼樹？〕模型中",
+                      "size": "sm",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
+]

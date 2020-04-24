@@ -1,0 +1,617 @@
+[
+{
+  "type": "flex",
+  "altText": "資料介紹",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://wa.enadv.idv.tw/tree_statistics.png",
+          "size": "full",
+          "aspectRatio": "16:9",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "uri": "https://wa.enadv.idv.tw/tree_statistics.png"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "樹形資料",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#9D6439"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "數量",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "2,332 筆，包含訓練資料 1,843 筆 / 測試資料 489 筆",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "樹木範圍",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "涵蓋 黑板樹 (96/35)、茄冬 (164/33)、樟樹 (201/44)、鳳凰木 (105/31)、榕樹 (295/50)、台灣欒樹 (203/50)、楓香 (150/33)、苦楝 (56/28)、白千層 (100/25)、水黃皮 (68/28)、阿勃勒 (105/30)、大王椰子 (68/25)、大葉欖仁 (62/32)、小葉欖仁 (170/45) 等 14 種樹形",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "時間",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "2019/10/03 ~ 2019/11/19",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "採樣地點",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "台北、新北、基隆、桃園、新竹、台中、宜蘭 等地",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "授權",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "CC BY-NC 4.0 授權，非商業用途可隨意使用不需告知，但須表彰〔這是什麼樹？〕團隊成員貢獻",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "action": {
+                        "type": "uri",
+                        "uri": "https://creativecommons.org/licenses/by-nc/4.0/deed.zh_TW"
+                      },
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "團隊成員",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "成員包含 Enos Chou、TW Su、Darren Lai、Jasper Cheng、Gina Fang、Missy Chung、Aries Chao、Leno Tsai、Jessie Lai、Wilson Chen 計 10 員",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "取得",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "請洽〔作者〕",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "action": {
+                        "type": "postback",
+                        "data": "action=show_email"
+                      },
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://wa.enadv.idv.tw/leaf_statistics.png",
+          "size": "full",
+          "aspectRatio": "16:9",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "uri": "https://wa.enadv.idv.tw/leaf_statistics.png"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "葉形資料",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#8EC641"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "數量",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "2,290 筆，包含訓練資料 1,890 筆 / 測試資料 400 筆",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "樹木範圍",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "涵蓋 青楓 (189/50)、鳳凰木 (136/50)、水同木 (200/50)、稜果榕 (291/50)、楓香 (262/50)、大葉山欖 (325/50)、盾柱木 (164/50)、大葉欖仁 (323/50) 等 8 種葉形",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "時間",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "2019/10/03 ~ 2019/11/19",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "採樣地點",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "台北、新北、基隆、桃園、新竹、台中、宜蘭 等地",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "授權",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "CC BY-NC 4.0 授權，非商業用途可隨意使用不需告知，但須表彰〔這是什麼樹？〕團隊成員貢獻",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "action": {
+                        "type": "uri",
+                        "uri": "https://creativecommons.org/licenses/by-nc/4.0/deed.zh_TW"
+                      },
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "團隊成員",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "成員包含 Enos Chou、TW Su、Darren Lai、Jasper Cheng、Gina Fang、Missy Chung、Aries Chao、Leno Tsai、Jessie Lai、Wilson Chen 計 10 員",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "取得",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "請洽〔作者〕",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "action": {
+                        "type": "postback",
+                        "data": "action=show_email"
+                      },
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "direction": "ltr",
+        "hero": {
+          "type": "image",
+          "url": "https://wa.enadv.idv.tw/bauhinia_statistics.png",
+          "size": "full",
+          "aspectRatio": "16:9",
+          "aspectMode": "fit",
+          "action": {
+            "type": "uri",
+            "uri": "https://wa.enadv.idv.tw/bauhinia_statistics.png"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "羊蹄甲資料",
+              "size": "xl",
+              "weight": "bold",
+              "color": "#FF00FF"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "數量",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "2,358 筆，包含訓練資料 2,158 筆 / 測試資料 200 筆",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "樹木範圍",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "涵蓋 艷紫荊 (742/66)、洋紫荊 (666/68)、羊蹄甲 (750/66) 等 3 種葉型",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "時間",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "2018/03/31 ~ 2018/04/11",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "採樣地點",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "台北、新北、基隆、桃園、雲林、高雄 等地",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "授權",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "CC BY-NC 4.0 授權，非商業用途可隨意使用不需告知，但須表彰〔羊蹄甲小組〕成員貢獻",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "action": {
+                        "type": "uri",
+                        "uri": "https://creativecommons.org/licenses/by-nc/4.0/deed.zh_TW"
+                      },
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "小組成員",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "成員包含 Enos Chou、Mei Lee、Irene Zheng、Tim Huang、Elley Chen 計 5 員",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "取得",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#8EC641"
+                    },
+                    {
+                      "type": "text",
+                      "text": "請洽〔作者〕",
+                      "flex": 5,
+                      "size": "sm",
+                      "color": "#666666",
+                      "action": {
+                        "type": "postback",
+                        "data": "action=show_email"
+                      },
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
+]

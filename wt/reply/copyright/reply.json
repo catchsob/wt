@@ -1,0 +1,84 @@
+[
+{
+  "type": "flex",
+  "altText": "版權宣告",
+  "contents": {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png",
+      "size": "full",
+      "aspectRatio": "2:1",
+      "aspectMode": "fit",
+      "action": {
+        "type": "uri",
+        "uri": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "版權宣告",
+          "size": "xl",
+          "weight": "bold",
+          "color": "#FF00FF"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "none",
+          "margin": "lg",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "The image data applied in this chatbot are created by both teams,",
+                  "flex": 5,
+                  "margin": "none",
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "WTIT Team:  Enos Chou, TW Su, Darren Lai, Jasper Cheng, Gina Fang, Missy Chung, Aries Chao, Leno Tsai, Jessie Lai, Wilson Chen",
+                  "flex": 5,
+                  "margin": "none",
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "Bauhinia Team: Enos Chou, Mei Lee, Irene Zheng, Tim Huang, Elley Chen, Taiwan AI Academy",
+                  "flex": 5,
+                  "margin": "none",
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                },
+                {
+                  "type": "text",
+                  "text": "Licensed under the Creative Commons Attribution-NonCommercial 4.0 International.",
+                  "flex": 5,
+                  "margin": "none",
+                  "size": "sm",
+                  "color": "#666666",
+                  "wrap": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+]
