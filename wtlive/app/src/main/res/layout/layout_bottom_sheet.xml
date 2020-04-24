@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_sheet_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:background="@drawable/bottom_sheet_bg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="8dp"
+    app:behavior_hideable="true"
+    app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+
+    <LinearLayout
+        android:id="@+id/gesture_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp">
+
+        <ImageView
+            android:id="@+id/bottom_sheet_arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/icn_chevron_up" />
+
+
+		<RelativeLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dp"
+			android:orientation="horizontal">
+
+			<TextView
+				android:id="@+id/detected_item"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentStart="true"
+				android:gravity="left"
+				android:textColor="@android:color/black" />
+
+			<TextView
+				android:id="@+id/detected_item_value"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_centerInParent="true"
+				android:gravity="center"
+				android:textColor="@android:color/black" />
+
+			<TextView
+				android:id="@+id/inference_info"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentEnd="true"
+				android:gravity="right"
+				android:text="500ms"
+				android:textColor="@android:color/black" />
+		</RelativeLayout>
+
+		<RelativeLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="5dp"
+			android:orientation="horizontal">
+
+			<TextView
+				android:id="@+id/modeltext"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dp"
+				android:layout_marginEnd="20dp"
+				android:text="模型:"
+				android:textColor="@android:color/black" />
+
+			<com.google.android.material.chip.ChipGroup
+				android:id="@+id/model_chipgroup"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_toRightOf="@id/modeltext"
+				android:clickable="true"
+				android:longClickable="true"
+				app:singleSelection="true">
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/model_trees14"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:checkable="true"
+					android:clickable="true"
+					android:text="14種樹"
+					android:theme="@style/Theme.MaterialComponents.Light"
+					app:chipIcon="@drawable/wt_icon_nobg" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/model_leaves8"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:checkable="true"
+					android:clickable="true"
+					android:text="8種葉"
+					android:theme="@style/Theme.MaterialComponents.Light"
+					app:chipIcon="@drawable/acer" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/model_bauhinia"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:checkable="true"
+					android:clickable="true"
+					android:text="羊蹄甲"
+					android:theme="@style/Theme.MaterialComponents.Light"
+					app:chipIcon="@drawable/bauhinia_nobg" />
+
+				<com.google.android.material.chip.Chip
+					android:id="@+id/model_trees14_2"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:checkable="true"
+					android:clickable="true"
+					android:text="14種樹V2"
+					android:theme="@style/Theme.MaterialComponents.Light"
+					app:chipIcon="@drawable/wt_icon_nobg" />
+			</com.google.android.material.chip.ChipGroup>
+
+		</RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginTop="8dp"
+            android:background="@android:color/darker_gray" />
+
+	</LinearLayout>
+
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+
+		<TextView
+			android:id="@+id/devicetext"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dp"
+			android:layout_marginEnd="20dp"
+			android:text="加速:"
+			android:textColor="@android:color/black" />
+
+		<com.google.android.material.chip.ChipGroup
+			android:id="@+id/device_chipgroup"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_toRightOf="@id/devicetext"
+			android:clickable="true"
+			app:singleSelection="true">
+
+			<com.google.android.material.chip.Chip
+				android:id="@+id/device_cpu"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:checkable="true"
+				android:clickable="true"
+				android:text="CPU"
+				android:theme="@style/Theme.MaterialComponents.Light" />
+
+			<com.google.android.material.chip.Chip
+				android:id="@+id/device_gpu"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:checkable="true"
+				android:clickable="true"
+				android:text="GPU"
+				android:theme="@style/Theme.MaterialComponents.Light" />
+
+			<com.google.android.material.chip.Chip
+				android:id="@+id/device_nnapi"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:checkable="true"
+				android:clickable="true"
+				android:text="NNAPI"
+				android:theme="@style/Theme.MaterialComponents.Light" />
+		</com.google.android.material.chip.ChipGroup>
+
+	</RelativeLayout>
+
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="5dp"
+		android:orientation="horizontal">
+
+		<TextView
+			android:id="@+id/tricktext"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dp"
+			android:layout_marginEnd="20dp"
+			android:text="密技:"
+			android:textColor="@android:color/black" />
+
+		<com.google.android.material.chip.Chip
+			android:id="@+id/trick_extrarotation"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_toRightOf="@id/tricktext"
+			android:layout_marginEnd="5dp"
+			android:checkable="true"
+			android:clickable="true"
+			android:longClickable="true"
+			android:onClick="onClick"
+			android:text="旋轉"
+			android:theme="@style/Theme.MaterialComponents.Light" />
+
+		<com.google.android.material.chip.Chip
+			android:id="@+id/trick_line"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_toRightOf="@id/trick_extrarotation"
+			android:checkable="false"
+			android:clickable="true"
+			android:onClick="onClick"
+			android:text="Line"
+			android:theme="@style/Theme.MaterialComponents.Light" />
+
+	</RelativeLayout>
+
+</LinearLayout>
