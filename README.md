@@ -11,9 +11,10 @@
 
 AI 模型解決方案:
 1. 自力拍攝並精選 4,622 張樹形與樹葉照片作為訓練資料
-2. 影像辨識發展 Central-Attention CNN (CACNN) 概念，基於一般拍照者習性擷取照片中央區塊進行訓練以加速模型收斂
-a. 嘗試 dual-path 模型訓練並混用 Inception 模塊，提升模型精確度
-b. 嘗試 MobileNetV2、Inception 等不同網路以取得各種條件限制下的最佳模型
+2. 樹形與樹葉影像辨識
+  1. 嘗試 MobileNetV2、Inception 等不同網路以取得各種條件限制下的最佳模型
+  2. 發展 Central-Attention CNN (CACNN) 概念，基於一般拍照者習性擷取照片中央區塊進行訓練以加速模型收斂
+  3. 嘗試 dual-path 模型訓練並混用 Inception 模塊，提升模型精確度
 3. 樹形與樹葉物件偵測 refer to https://github.com/experiencor/keras-yolo3
 
 系統整合方案:
@@ -21,6 +22,6 @@ b. 嘗試 MobileNetV2、Inception 等不同網路以取得各種條件限制下�
 2. Line Chatbot: 建立雲端 AI inference backend，並開發前端 Line Chatbot 應用
 
 目錄:
-1. *root* ==> AI modeling for tree classification, by CACNN mixed with Inception and CACNN only
-2. *wt* ==> 什麼樹？Line Chatbot version
-3. *wtlive* ==> 什麼樹？Android APP version
+* root ==> AI modeling for tree classification, by CACNN mixed with Inception and CACNN only
+* wt ==> 什麼樹？Line Chatbot version
+* wtlive ==> 什麼樹？Android APP version
