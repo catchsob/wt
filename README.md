@@ -11,9 +11,10 @@
 
 AI 模型解決方案:
 1. 自力拍攝並精選 4,622 張樹形與樹葉照片作為訓練資料
-2. 發展 Central-Attention CNN (CACNN) 概念，基於一般拍照者習性擷取照片中央區塊進行訓練以加速模型收斂
-3. 嘗試 dual-path 模型訓練並混用 Inception 模塊，提升模型精確度
-4. 嘗試 MobileNetV2、Inception 等不同網路以取得各種條件限制下的最佳模型
+2. 影像辨識發展 Central-Attention CNN (CACNN) 概念，基於一般拍照者習性擷取照片中央區塊進行訓練以加速模型收斂
+2.1 嘗試 dual-path 模型訓練並混用 Inception 模塊，提升模型精確度
+2.2 嘗試 MobileNetV2、Inception 等不同網路以取得各種條件限制下的最佳模型
+3. 樹形與樹葉物件偵測 refer to https://github.com/experiencor/keras-yolo3
 
 系統整合方案:
 1. Android APP: 基於 https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android ，整合開發即時辨識機制
