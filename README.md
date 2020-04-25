@@ -16,7 +16,7 @@ AI 模型解決方案:
 4. 嘗試 MobileNetV2、Inception 等不同網路以取得各種條件限制下的最佳模型
 
 系統整合方案:
-1. Android APP - 基於 https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android ，整合開發即時辨識機制
+1. Android APP: 基於 https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android ，整合開發即時辨識機制
 2. Line Chatbot: 建立雲端 AI inference backend，並開發前端 Line Chatbot 應用
 
 目錄:
