@@ -20,6 +20,6 @@ AI 模型解決方案:
 2. Line Chatbot: 建立雲端 AI inference backend，並開發前端 Line Chatbot 應用
 
 目錄:
-1. root: AI modeling for tree classification, by CACNN mixed with Inception and CACNN only
-2. wt: 什麼樹？Line Chatbot version
-3. wtlive: 什麼樹？Android APP version
+1. *root*: AI modeling for tree classification, by CACNN mixed with Inception and CACNN only
+2. *wt*: 什麼樹？Line Chatbot version
+3. *wtlive*: 什麼樹？Android APP version
