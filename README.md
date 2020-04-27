@@ -1,7 +1,7 @@
 # wtit
 這是什麼樹？
 
-目標: 樹型與樹葉辨識與偵測
+目標: 樹形樹葉辨識與偵測
 
 範圍:
 1. 針對黑板樹、茄冬、樟樹、鳳凰木、榕樹、台灣欒樹、楓香、苦楝、白千層、水黃皮、阿勃勒、大王椰子、大葉欖仁、小葉欖仁等 14 種樹形的影像辨識與物件偵測模型建立
@@ -19,7 +19,7 @@ AI 模型解決方案:
 
 系統整合方案:
 1. Android APP: 基於 https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android ，整合開發即時辨識機制
-2. Line Chatbot: 建立雲端 AI inference backend，並開發前端 Line Chatbot 應用
+2. Line Chatbot: 建立雲端 AI inference back-end for 辨識與偵測，並開發前端 Line Chatbot 應用
 
 目錄:
 - *root* ==> AI modeling for tree classification, by CACNN mixed with Inception and CACNN only
